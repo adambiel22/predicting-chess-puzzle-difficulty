@@ -1,0 +1,6 @@
+pandas
+ipykernel
+python-chess
+scikit-learn<1.6
+xgboost
+matplotlib
